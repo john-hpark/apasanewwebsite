@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "speakers-night",
+    "name": "Speaker's Night",
+    "description": "APASA collaborates with Speakers Committee to bring a celebrity to Bovard. Past guests include Niki, Charitha Chandran, Lana Condor, and Hasan Minhaj!"
+  },
+  {
+    "slug": "night-market",
+    "name": "Night Market",
+    "description": "Our Night Market brings together all of APASA’s member organizations to a celebration of games, food, live music, and prizes!"
+  },
+  {
+    "slug": "cultural-arts-expo",
+    "name": "Cultural Arts Expo",
+    "description": "CAE is a art marketplace and culture show showcasing APIDA small artist vendors and APASA performing member organizations"
+  },
+  {
+    "slug": "community-dinner",
+    "name": "Community Dinner",
+    "description": "Community Dinner is a professional development event that brings in LA-based APIDA professionals across all different backgrounds for a night of moderated discussion and catered dinner."
+  },
+  {
+    "slug": "apahf",
+    "name": "APAHF",
+    "description": "The Asian Pacific American Heritage Festival is APASA’s month-long celebration in the month of March, featuring a kickoff and an Elementary School Showcase!"
+  },
+  {
+    "slug": "cultural-collective",
+    "name": "Cultural Collective",
+    "description": "Cultural Collective is an involvement fair-style event where attendees can meet and learn more about APASA’s member organizations."
+  }
+]
